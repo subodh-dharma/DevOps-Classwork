@@ -1,0 +1,3 @@
+config.token = "c0576da34d0b5ed8e77e75b8a3fc14a05657120c4e6acb3c2f6e9e6dc32dfd57";
+
+security token for main.js ServersWorkshop
